@@ -10,7 +10,9 @@ namespace Vezba1
     {
         static void Main(string[] args)
         {
+            string s1 = "This is some string";
             Console.WriteLine("This is first git demo project");
+            Console.WriteLine(s1);
             Console.ReadLine();
         }
     }
